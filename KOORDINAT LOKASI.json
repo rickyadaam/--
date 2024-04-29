@@ -244,5 +244,132 @@
         "value": 1 ,
         "marker": "Ring Road Utara\nTanggal: 1 Januari 2024\n15:08 WIB",
         "image": "https://i.ibb.co/DkN2hCv/Whats-App-Image-2024-04-30-at-02-38-46.jpg"
+    },
+    {
+        "latitude": -7.7597751250674145, 
+        "longitude": 110.36960154095753 ,  
+        "value": 1 ,
+        "marker": "Scoot Cafe\nTanggal: 3 July 2023\n00:37 WIB",
+        "image": "https://i.ibb.co/LnBRpJz/Whats-App-Image-2024-04-30-at-02-43-19.jpg"
+    },
+    {
+        "latitude": -7.761328781871607, 
+        "longitude": 110.37562788405627 ,  
+        "value": 1 ,
+        "marker": "Pogung Baru\nTanggal: 7 Maret 2024\n13:38 WIB",
+        "image": "https://i.ibb.co/ph6t7ff/Whats-App-Image-2024-04-30-at-02-45-53.jpg"
+    },
+    {
+        "latitude": -7.762957549756105, 
+        "longitude": 110.37498999415035 ,  
+        "value": 1 ,
+        "marker": "Pogung Baru\nTanggal: 6 Juni 2023\n14:32 WIB",
+        "image": "https://i.ibb.co/542Vm6p/Whats-App-Image-2024-04-30-at-02-47-18.jpg"
+    },
+    {
+        "latitude": -7.76090716456999, 
+        "longitude": 110.37811199115697 ,  
+        "value": 1 ,
+        "marker": "Burjo Palm Kuning Pogung\nTanggal: 18 April 2024\n12:12 WIB",
+        "image": "https://i.ibb.co/9GWFmmm/Whats-App-Image-2024-04-30-at-02-49-48.jpg"
+    },
+    {
+        "latitude": -7.755068748050422, 
+        "longitude": 110.38353756232499 ,  
+        "value": 1 ,
+        "marker": "Underpass Jakal\nTanggal: 6 June 2023\n15:09 WIB",
+        "image": "https://i.ibb.co/Gt8wVV4/Whats-App-Image-2024-04-30-at-02-53-36.jpg"
+    },
+    {
+        "latitude": -7.757771032144026, 
+        "longitude": 110.36984895715494 ,  
+        "value": 1 ,
+        "marker": "Osaka Pool\nTanggal: 21 November 2023\n21:31 WIB",
+        "image": "https://i.ibb.co/tzp8whb/Whats-App-Image-2024-04-30-at-02-55-43.jpg"
+    },
+    {
+        "latitude": -7.756608140207907, 
+        "longitude": 110.36979882178731 ,  
+        "value": 1 ,
+        "marker": "Jl Monjali\nTanggal: 6 June 2023\n14:37 WIB",
+        "image": "https://i.ibb.co/tCWgpM2/Whats-App-Image-2024-04-30-at-02-57-54.jpg"
+    },
+    {
+        "latitude": -7.762263624977422, 
+        "longitude": 110.36279186559847 ,  
+        "value": 1 ,
+        "marker": "Jl Wijaya Kusuma\nTanggal: 6 June 2023\n14:52 WIB",
+        "image": "https://i.ibb.co/XyPT3TC/Whats-App-Image-2024-04-30-at-02-59-11.jpg"
+    },
+    {
+        "latitude": -7.773251530248914, 
+        "longitude": 110.38036803697042 ,  
+        "value": 1 ,
+        "marker": "Masjid Kampus UGM\nTanggal: 5 June 2023\n10:12 WIB",
+        "image": "https://i.ibb.co/KV7n4Vm/Whats-App-Image-2024-04-30-at-03-01-58.jpg"
+    },
+    {
+        "latitude": -7.776190518258674, 
+        "longitude": 110.37774238186138 ,  
+        "value": 1 ,
+        "marker": "Panti Rapih\nTanggal: 2 May 2023\n16:14 WIB",
+        "image": "https://i.ibb.co/cLmC4Kj/Whats-App-Image-2024-04-30-at-03-05-52.jpg"
+    },
+    {
+        "latitude": -7.7786772938385695, 
+        "longitude": 110.39275210379427 ,  
+        "value": 1 ,
+        "marker": "Bliss Pool\nTanggal: 24 Oktober 2023\n21:34 WIB",
+        "image": "https://i.ibb.co/PNfdcKj/Whats-App-Image-2024-04-30-at-03-06-58.jpg"
+    },
+    {
+        "latitude": -7.775582219833323, 
+        "longitude": 110.40341303878685 ,  
+        "value": 1 ,
+        "marker": "Montis Yk\nTanggal: 28 Oktober 2024\n21:24 WIB",
+        "image": "https://i.ibb.co/cCpXnPT/Whats-App-Image-2024-04-30-at-03-10-41.jpg"
+    },
+    {
+        "latitude": -7.762500323206543, 
+        "longitude": 110.42250689671751 ,  
+        "value": 1 ,
+        "marker": "Mato Kopi 2\nTanggal: 26 Agustus 2023\n08:05 WIB",
+        "image": "https://i.ibb.co/bBpL5bF/Whats-App-Image-2024-04-30-at-03-14-16.jpg"
+    },
+    {
+        "latitude": -7.772953828633446, 
+        "longitude": 110.37107951792953 ,  
+        "value": 1 ,
+        "marker": "Warmindo Manis Lor Sendowo\nTanggal: 29 April 2024\n07:37 WIB",
+        "image": "https://i.ibb.co/tXKsfvv/Whats-App-Image-2024-04-30-at-03-17-14.jpg"
+    },
+    {
+        "latitude": -7.758017987136819, 
+        "longitude": 110.37719807608876 ,  
+        "value": 1 ,
+        "marker": "Warmindo Maharasa Pogung\nTanggal: 1 April 2024\n01:56 WIB",
+        "image": "https://i.ibb.co/WVP1KtM/Whats-App-Image-2024-04-30-at-03-18-42.jpg"
+    },
+    {
+        "latitude": -7.762522316618594, 
+        "longitude": 110.36272306287712 ,  
+        "value": 1 ,
+        "marker": "Angkringan Kanca Dhewek\nTanggal: 1 Maret 2024\n18:12 WIB",
+        "image": "https://i.ibb.co/V99JF00/Whats-App-Image-2024-04-30-at-03-22-52.jpg"
+    },
+    {
+        "latitude": -7.781057864310613, 
+        "longitude": 110.36608954469764 ,  
+        "value": 1 ,
+        "marker": "Lange Cafe\nTanggal: 13 February 2024\n00:20 WIB",
+        "image": "https://i.ibb.co/nCMDbtw/Whats-App-Image-2024-04-30-at-03-25-42.jpg"
+    },
+    {
+        "latitude": -7.756316389552112, 
+        "longitude": 110.36974957001536 ,  
+        "value": 1 ,
+        "marker": "Burjo Murni Monjali\nTanggal: 9 February 2024\n20:20 WIB",
+        "image": "https://i.ibb.co/QfQxY3D/Whats-App-Image-2024-04-30-at-03-29-42-1.jpg"
     }
+
 ]
