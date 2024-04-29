@@ -64,8 +64,8 @@
         "image": "https://i.ibb.co/Fnzcw4Z/Whats-App-Image-2024-04-30-at-01-25-39.jpg" 
     },
     {
-        "latitude": -7.7702305657318576, 
-        "longitude": 110.34413352728998 ,  
+        "latitude": -7.7701672167120535, 
+        "longitude": 110.34343441034355 ,  
         "value": 1 ,
         "marker": "Arinda Permai\nTanggal: 28 Agustus 2023\n19:01 WIB",
         "image": "https://i.ibb.co/YfXS2K5/Whats-App-Image-2024-04-30-at-01-21-38.jpg" 
@@ -83,5 +83,166 @@
         "value": 1 ,
         "marker": "Arinda Permai B7\nTanggal: 6 April 2024\n02:59 WIB",
         "image": "https://i.ibb.co/kq0FNhJ/Whats-App-Image-2024-04-30-at-01-29-04.jpg" 
+    },
+    {
+        "latitude": -7.765158193026008, 
+        "longitude": 110.34460375672512 ,  
+        "value": 1 ,
+        "marker": "Bumi Durian\nTanggal: 3 Juni 2023\n13:45 WIB",
+        "image": "https://i.ibb.co/sWjbDRD/Whats-App-Image-2024-04-30-at-01-38-54.jpg" 
+    },
+    {
+        "latitude": -7.764465790179801, 
+        "longitude": 110.34375235159062 ,  
+        "value": 1 ,
+        "marker": "Biru Sport Center\nTanggal: 27 Juli 2023\n08:45 WIB",
+        "image": "https://i.ibb.co/g6c2V1v/Whats-App-Image-2024-04-30-at-01-40-17.jpg" 
+    },
+    {
+        "latitude": -7.764845539900746, 
+        "longitude": 110.34991125572047 ,  
+        "value": 1 ,
+        "marker": "Jl Jambon\nTanggal: 10 September 2023\n20:07 WIB",
+        "image": "https://i.ibb.co/Nmxxs7g/Whats-App-Image-2024-04-30-at-01-44-17.jpg" 
+    },
+    {
+        "latitude": -7.76531687775535, 
+        "longitude": 110.35033313229792 ,  
+        "value": 1 ,
+        "marker": "Jl Jambon\nTanggal: 18 Desember 2023\n18:17 WIB",
+        "image": "https://i.ibb.co/ZNPpvxG/Whats-App-Image-2024-04-30-at-01-46-37.jpg" 
+    },
+    {
+        "latitude": -7.7659957632421515, 
+        "longitude": 110.35097387899297 ,  
+        "value": 1 ,
+        "marker": "Jl Jambon\nTanggal: 22 Desember 2023\n13:34 WIB",
+        "image": "https://i.ibb.co/DgNGdJb/Whats-App-Image-2024-04-30-at-01-48-39.jpg" 
+    },
+    {
+        "latitude": -7.769738559981924, 
+        "longitude": 110.35700819862059 ,  
+        "value": 1 ,
+        "marker": "Jl Jambon\nTanggal: 19 Juni 2023\n22:45 WIB",
+        "image": "https://i.ibb.co/J7j2XpF/Whats-App-Image-2024-04-30-at-01-50-19.jpg" 
+    },
+    {
+        "latitude": -7.769057338559625, 
+        "longitude": 110.36175189910932 ,  
+        "value": 1 ,
+        "marker": "BCA JAMAL\nTanggal: 14 Oktober 2023\n21:05 WIB",
+        "image": "https://i.ibb.co/C8b5WBm/Whats-App-Image-2024-04-30-at-01-52-40.jpg" 
+    },
+    {
+        "latitude": -7.766593737448741, 
+        "longitude": 110.36185136976613 ,  
+        "value": 1 ,
+        "marker": "Kaizen JAMAL\nTanggal: 31 Oktober 2023\n13:23 WIB",
+        "image": "https://i.ibb.co/NCBc9Ph/Whats-App-Image-2024-04-30-at-01-55-31.jpg" 
+    },
+    {
+        "latitude": -7.775963275896977, 
+        "longitude": 110.34658024194496 ,  
+        "value": 1 ,
+        "marker": "Banyu Mili Resto\nTanggal: 27 June 2023\n18:11 WIB",
+        "image": "https://i.ibb.co/0qPFXNv/Whats-App-Image-2024-04-30-at-01-59-08.jpg" 
+    },
+    {
+        "latitude": -7.779099200381572, 
+        "longitude": 110.34229773457933 ,  
+        "value": 1 ,
+        "marker": "McDonald Jl Godean\nTanggal: 11 July 2023\n13:37 WIB",
+        "image": "https://i.ibb.co/Vqbg1PP/Whats-App-Image-2024-04-30-at-02-01-35.jpg" 
+    },
+    {
+        "latitude": -7.7492315379904575, 
+        "longitude": 110.36375197842075 ,  
+        "value": 1 ,
+        "marker": "Jombor\nTanggal: 13 June 2023\n17:18 WIB",
+        "image": "https://i.ibb.co/N7wF69z/Whats-App-Image-2024-04-30-at-02-04-30.jpg" 
+    },
+    {
+        "latitude": -7.7725229202655575, 
+        "longitude": 110.36216659598121 ,  
+        "value": 1 ,
+        "marker": "SMA 4 YK\nTanggal: 2 July 2023\n12:27 WIB",
+        "image": "https://i.ibb.co/N7zPQQV/Whats-App-Image-2024-04-30-at-02-06-50.jpg" 
+    },
+    {
+        "latitude": -7.7674242394453294, 
+        "longitude": 110.36177742988811 ,  
+        "value": 1 ,
+        "marker": "Kakkoii JAMAL\nTanggal: 20 Maret 2024\n18:01 WIB",
+        "image": "https://i.ibb.co/DGHJTW4/Whats-App-Image-2024-04-30-at-02-09-47.jpg" 
+    },
+    {
+        "latitude": -7.773261181932747, 
+        "longitude": 110.38878139573383 ,  
+        "value": 1 ,
+        "marker": "Beaschik UNY\nTanggal: 23 Maret 2024\n02:11 WIB",
+        "image": "https://i.ibb.co/nshp3nh/Whats-App-Image-2024-04-30-at-02-14-35.jpg" 
+    },
+    {
+        "latitude": -7.825903449557072, 
+        "longitude": 110.11674333176536 ,  
+        "value": 1 ,
+        "marker": "Waduk Sermo\nTanggal: 11 November 2023\n15:18 WIB",
+        "image": "https://i.ibb.co/k3mnbDT/Whats-App-Image-2024-04-30-at-02-17-47.jpg" 
+    },
+    {
+        "latitude": -7.592746762043616, 
+        "longitude": 110.42827692964777 ,  
+        "value": 1 ,
+        "marker": "Warung Ijo Kaliurang\nTanggal: 28 November 2023\n23:31 WIB",
+        "image": "https://i.ibb.co/JyTPBTF/Whats-App-Image-2024-04-30-at-02-20-14.jpg" 
+    },
+    {
+        "latitude": -7.750000166991514, 
+        "longitude": 110.36413167522336 ,  
+        "value": 1 ,
+        "marker": "Fly Over Jombor\nTanggal: 1 September 2023\n16:56 WIB",
+        "image": "https://i.ibb.co/h8N4Cv0/Whats-App-Image-2024-04-30-at-02-22-29.jpg" 
+    },
+    {
+        "latitude": -7.748588995762007, 
+        "longitude": 110.36191749492124 ,  
+        "value": 1 ,
+        "marker": "McDonald Jombor\nTanggal: 3 Juni 2023\n22:00 WIB",
+        "image": "https://i.ibb.co/VHn77W1/Whats-App-Image-2024-04-30-at-02-24-32.jpg"
+    },
+    {
+        "latitude": -7.7512439731631, 
+        "longitude": 110.36225412888774 ,  
+        "value": 1 ,
+        "marker": "Jalan Magelang\nTanggal: 6 Juni 2023\n14:41 WIB",
+        "image": "https://i.ibb.co/3hdsqwv/Whats-App-Image-2024-04-30-at-02-27-02.jpg"
+    },
+    {
+        "latitude": -7.74855861058009, 
+        "longitude": 110.37223791379027 ,  
+        "value": 1 ,
+        "marker": "Jl Palagan\nTanggal: 6 Juni 2023\n15:06 WIB",
+        "image": "https://i.ibb.co/99dc6Wr/Whats-App-Image-2024-04-30-at-02-36-39.jpg"
+    },
+    {
+        "latitude": -7.7552915533800215, 
+        "longitude": 110.3628308279607 ,  
+        "value": 1 ,
+        "marker": "Lap Tenis Sinduadi\nTanggal: 6 Juni 2023\n14:55 WIB",
+        "image": "https://i.ibb.co/HdgbW9b/Whats-App-Image-2024-04-30-at-02-30-29.jpg"
+    },
+    {
+        "latitude": -7.751839802846143, 
+        "longitude": 110.36939279744146 ,  
+        "value": 1 ,
+        "marker": "HK 99 Mini Soccer\nTanggal: 1 Januari 2024\n22:41 WIB",
+        "image": "https://i.ibb.co/qDGCnWG/Whats-App-Image-2024-04-30-at-02-32-45.jpg"
+    },
+    {
+        "latitude": -7.751513960586905, 
+        "longitude": 110.37272412379123 ,  
+        "value": 1 ,
+        "marker": "Ring Road Utara\nTanggal: 1 Januari 2024\n15:08 WIB",
+        "image": "https://i.ibb.co/DkN2hCv/Whats-App-Image-2024-04-30-at-02-38-46.jpg"
     }
 ]
