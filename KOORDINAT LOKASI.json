@@ -389,7 +389,7 @@
         "latitude": -7.774699969126327, 
         "longitude": 110.38060306122513 ,  
         "value": 1 ,
-        "marker": "DEB SV\nTanggal: 2 May 2023\n16:06 WIB",
+        "marker": "DEB SV UGM\nTanggal: 2 May 2023\n16:06 WIB",
         "image": "https://i.ibb.co/r5b84t5/Whats-App-Image-2024-04-30-at-08-03-48.jpg"
     },
     {
@@ -405,6 +405,48 @@
         "value": 1 ,
         "marker": "Lembah UGM\nTanggal: 16 May 2023\n15:48 WIB",
         "image": "https://i.ibb.co/wWGbwQD/Whats-App-Image-2024-04-30-at-08-10-06.jpg"
+    },
+    {
+        "latitude": -7.772729007959977, 
+        "longitude": 110.37550545494163 ,  
+        "value": 1 ,
+        "marker": "Food Court UGM\nTanggal: 22 June 2023\n09:39 WIB",
+        "image": "https://i.ibb.co/w7fDrj1/Whats-App-Image-2024-04-30-at-08-15-05.jpg"
+    },
+    {
+        "latitude": -7.76795516431129, 
+        "longitude": 110.37845176423023 ,  
+        "value": 1 ,
+        "marker": "Balairung UGM\nTanggal: 22 June 2023\n10:57 WIB",
+        "image": "https://i.ibb.co/vxzVJgd/Whats-App-Image-2024-04-30-at-08-17-50.jpg"
+    },
+    {
+        "latitude": -7.774994004274717, 
+        "longitude": 110.37432680141411 ,  
+        "value": 1 ,
+        "marker": "DTK SV UGM\nTanggal: 13 September 2023\n10:26 WIB",
+        "image": "https://i.ibb.co/VMpk565/Whats-App-Image-2024-04-30-at-08-22-01.jpg"
+    },
+    {
+        "latitude": -7.770720998760412, 
+        "longitude": 110.38245873189815 ,  
+        "value": 1 ,
+        "marker": "Lapangan Baseball UGM\nTanggal: 15 November 2023\n15:00 WIB",
+        "image": "https://i.ibb.co/SX4Mq2Z/Whats-App-Image-2024-04-30-at-08-25-21.jpg"
+    },
+    {
+        "latitude": -7.76375861819827, 
+        "longitude": 110.39328650028969 ,  
+        "value": 1 ,
+        "marker": "Mie Gacoan Gejayan\nTanggal: 16 November 2023\n00:01 WIB",
+        "image": "https://i.ibb.co/1R87MK4/Whats-App-Image-2024-04-30-at-08-27-29.jpg"
+    },
+    {
+        "latitude": -7.756230738516697, 
+        "longitude": 110.37737644001899 ,  
+        "value": 1 ,
+        "marker": "Burjo Malatax\nTanggal: 19 December 2023\n13:46 WIB",
+        "image": "https://i.ibb.co/BT0pYkT/Whats-App-Image-2024-04-30-at-08-31-45.jpg"
     }
 
 ]
